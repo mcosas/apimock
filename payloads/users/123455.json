@@ -1,0 +1,13 @@
+{
+    "id": 10,
+    "name": "user 10",
+    "adress": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "spokenLanguages": [
+      "Portuguese",
+      "English"
+    ],
+    "status": "created"
+  }
